@@ -1,0 +1,5 @@
+Minesweeper is a game where mines are hidden in a grid of squares. Safe squares contain numbers telling you how many mines touch each square. You can use the number clues to solve the game by opening the safe squares. If you click on a mine you lose the game.
+
+Windows Minesweeper always makes the first click safe. You open squares with the left mouse button and put flags on mines with the right mouse button. Pressing the right mouse button again puts a questionmark on the square. When you open a square that does not touch a mine, the square will be empty and nearby squares will open in all directions until squares contain numbers. A common strategy for starting games is to randomly click until you get a big opening with lots of numbers.
+
+Chording is when you press both mouse buttons at the same time. If you flag all mines touching a number, chording on the number opens the remaining squares. This can save you a lot of work! However, if you place the correct number of flags on the wrong squares, chording will explode the mines.
